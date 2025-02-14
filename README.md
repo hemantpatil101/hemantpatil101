@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left"> - Turning ideas into code since 2021, with a passion for solving complex problems.<br>🔍 Currently diving deeper into Backend Development and DevOps.<be> - Excited about building scalable systems with Python, FastAPI, and AWS.<br> - Competitive Programming enthusiast with good rankings on CodeForces, LeetCode, and CodeChef.<be> - Always aiming to learn, grow, and contribute to projects.</h4>
+<h4 align="left"> - Turning ideas into code since 2021, with a passion for solving complex problems.<br> - Currently diving deeper into Backend Development and DevOps.<be> - Excited about building scalable systems with Python, FastAPI, and AWS.<br> - Competitive Programming enthusiast with good rankings on CodeForces, LeetCode, and CodeChef.<be> - Always aiming to learn, grow, and contribute to projects.</h4>
 
 ###
 
